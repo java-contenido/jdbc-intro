@@ -1,0 +1,18 @@
+# Archivos de sistema
+*.class
+*.log
+*.tmp
+.DS_Store
+
+# Configuración de IntelliJ/NetBeans/Eclipse
+*.iml
+.idea/
+*.project
+*.classpath
+
+# Dependencias de Maven
+/target/
+
+# Archivos sensibles
+# *.properties
+*.env
