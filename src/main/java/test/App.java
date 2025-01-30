@@ -1,4 +1,4 @@
-package mx.com.gm.jdbc;
+package test;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
